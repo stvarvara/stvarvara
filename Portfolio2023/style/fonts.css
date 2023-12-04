@@ -1,0 +1,75 @@
+/************/
+@font-face {
+    font-family: 'Sweet Sans Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/sweet/SweetSansProRegular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Extra Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/sweet/SweetSansProExLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/sweet/SweetSansProMedium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/sweet/SweetSansProBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Founders Grotesk Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/Founders_Grotesk/test-founders-grotesk-bold.woff2') format('woff2');
+}
+/************/
+@font-face {
+    font-family: 'Founders Grotesk Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/Founders_Grotesk/test-founders-grotesk-regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Founders Grotesk Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/Founders_Grotesk/test-founders-grotesk-light.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Founders Grotesk Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/Founders_Grotesk/test-founders-grotesk-medium.woff2') format('woff2');
+}
+/************/
+@font-face {
+    font-family: 'Cannela Desk Trial Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/cannela/CanelaDeck-Medium-Trial.woff') format('woff');
+}
+@font-face {
+    font-family: 'Cannela Desk Trial Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/cannela/CanelaDeck-Regular-Trial.woff') format('woff');
+}
+@font-face {
+    font-family: 'Cannela Desk Trial Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/cannela/CanelaDeck-Bold-Trial.woff') format('woff');
+}
+@font-face {
+    font-family: 'Cannela Desk Trial Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/cannela/CanelaDeck-Light-Trial.woff') format('woff');
+}
